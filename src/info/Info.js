@@ -46,12 +46,12 @@ export const info = {
                         style={{ 
                             textDecoration: 'underline', 
                             color: 'inherit', 
-                            backgroundColor: '#ffeb3b', // Highlight color
+                            backgroundColor: '#64b5f6',// Highlight color
                             padding: '0.2rem 0.5rem',
                             borderRadius: '4px' // Optional: for rounded corners
                         }}
                     >
-                        resume
+                    resume
                     </a>
                 </>
             )
