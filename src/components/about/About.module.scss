@@ -1,0 +1,30 @@
+@import "../../variables.modules";
+
+.pink {
+  color: $pink;
+}
+
+.green {
+  color: $green;
+}
+
+.skills {
+  columns: 1;
+  @media only screen and (min-width: 940px) {
+    columns: 2;
+  }
+
+  li {
+    margin: 0;
+    line-height: 1.75;
+  }
+}
+
+
+.bioText {
+  width: 500px;  // Adjust to desired width
+  margin-left: auto; // Center the paragraph
+  margin-right: auto;
+  text-align: justify; // Justifies text to give equal spacing
+  line-height: 1.6; // Adjusts line height for readability
+}
