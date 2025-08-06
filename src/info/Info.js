@@ -78,7 +78,7 @@ export const info = {
     ],
     bio: [
         " Hello! I'm Sai Vineeth, a passionate developer with a Master's in Computer Science from the University at Buffalo.",
-        "I specialize in implementing robust authentication mechanisms using OAuth2 and JWT, ensuring top-notch security for enterprise systems. Additionally, I have extensive experience working with microservices and containerization technologies like Docker and Kubernetes to streamline deployments and improve system performance.",
+        "I specialize in building secure, scalable authentication and authorization systems using OAuth2, OIDC, and JWT, ensuring enterprise-grade security and compliance with industry standards. With a strong backend foundation in Java and Spring, I’ve designed services currently supporting over 10 million daily transactions.",
         "In my current role at Bank of America, I’ve contributed to complex systems, including the development of IVR solutions, integrated Kafka to handle real-time event streaming, such as customer consents and authentication data, I optimized database interactions using DAO design patterns with Oracle SQL, PL/SQL, PostgreSQL, and Cassandra, improving query performance. I also leveraged CI/CD tools like Jenkins, Bitbucket, and Ansible to automate deployments, streamlining operations. ",
     ],
     skills:
