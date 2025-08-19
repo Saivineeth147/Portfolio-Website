@@ -87,7 +87,7 @@ export const info = {
             web: ['SOAP and REST ', 'Servlets', 'JSP', 'JavaScript', 'jQuery', 'AJAX', 'React'],
             cms: ['AEM 6.5'],
             databases: ['Oracle', 'MySQL', 'Mongo DB', 'Cassandra'],
-            tools: ['Maven', 'Junit', 'GIT', 'Tableau', 'Splunk', 'Hibernate', 'Spring MVC', 'Spring Boot', 'Spring JPA', 'Ansible', 'Jenkins',  'Docker', 'Kubernetes', 'OpenCV', 'PyTorch', 'scikit-learn', 'Keras', 'Tensorflow'],
+            tools: ['Maven', 'Junit', 'GIT', 'Tableau', 'Splunk', 'Hibernate', 'Spring MVC', 'Spring Boot', 'Spring JPA', 'Ansible', 'Jenkins', 'Data Integration', 'Docker', 'Kubernetes', 'OpenCV', 'PyTorch', 'scikit-learn', 'Keras', 'Tensorflow', 'Transformers', 'FAISS', 'Embedding-based semantic search', 'RAG (Retrieval-Augmented Generation)', 'Gradio'],
         }
     ,
     Awards: [
